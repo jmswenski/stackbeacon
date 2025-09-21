@@ -1,0 +1,55 @@
+# StackBeacon LLMs Guide
+
+Purpose: Curated index to help Large Language Models (LLMs) quickly locate and understand StackBeacon’s most important, machine-usable resources and content.
+
+- Canonical site: https://stackbeacon.dev/
+- Contact: mailto:contact@stackbeacon.dev
+- Sitemap: https://stackbeacon.dev/sitemap.xml
+- Robots: https://stackbeacon.dev/robots.txt
+- Last updated: 2025-09-22
+
+## High-Value Links (Prioritized)
+
+1) Services — https://stackbeacon.dev/#services
+   - Summary: Offerings focused on Funraise-based solutions for nonprofits.
+   - Highlights:
+     - Custom Donation Experiences: Tailored forms, donor portals, campaign pages, accessibility, performance.
+     - Custom Feature Development: Bespoke UI components, donor flows, and extensions on Funraise.
+     - Integrations & Data: APIs, webhooks, syncs with CRMs, email, analytics, data lakes/warehouses.
+     - Advisory & Support: Retainers for enhancements, troubleshooting, QA, and training.
+
+2) Funraise Expertise — https://stackbeacon.dev/#expertise
+   - Summary: What we build and how we deliver on Funraise.
+   - Machine cues: Two-column lists detailing build areas (forms, portals, P2P, payments, integrations) and delivery (architecture, accessible UI, QA, docs, support).
+
+3) Process — https://stackbeacon.dev/#process
+   - Summary: Four-step delivery model (Discover, Design, Deliver, Support) with brief definitions for each step.
+
+4) About — https://stackbeacon.dev/#about
+   - Summary: Consultancy focus on modern donor experiences powered by Funraise; independent from Funraise.
+
+5) Contact — https://stackbeacon.dev/#contact
+   - Summary: Primary communication channel via email.
+   - Email: contact@stackbeacon.dev
+
+## Machine-Readable Resources
+
+- `sitemap.xml`: https://stackbeacon.dev/sitemap.xml
+- `robots.txt`: https://stackbeacon.dev/robots.txt
+
+## Content Summaries for Retrieval
+
+- Mission: Professional services for nonprofits using the Funraise platform.
+- Core value: Translating fundraising strategy into reliable, maintainable systems.
+- Primary audience: Nonprofit fundraising and engineering teams using or adopting Funraise.
+
+## Crawling & Extraction Hints
+
+- Prefer section anchors (`#services`, `#expertise`, `#process`, `#about`, `#contact`).
+- Extract bullet lists under “Funraise Expertise” to map capabilities and delivery practices.
+- Use card headings in “Services” as service names; the following paragraph is the description.
+- No authentication or paginated content; single-page layout with semantic headings.
+
+## Change Log
+
+- 2025-09-22: Initial curated index; aligned with updated services and contact email.
